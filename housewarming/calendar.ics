@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//URU Housewarming//Invitation//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:오합지졸 서울예고 친구들 집들이
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VTIMEZONE
+TZID:Asia/Seoul
+BEGIN:STANDARD
+DTSTART:19881009T030000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+0900
+TZNAME:KST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20261128T160000-housewarming-seoul-arts@marinart1994.github.io
+DTSTAMP:20261028T072530Z
+DTSTART;TZID=Asia/Seoul:20261128T160000
+SUMMARY:집들이 · 오합지졸 서울예고 친구들
+LOCATION:서울특별시 강남구 개포로 310\, 디에이치퍼스티어
+ 아이파크 154동 1405호
+DESCRIPTION:오합지졸 서울예고 친구들\, 집들이에 초대해!\n
+ 11월 28일 오후 4시에 만나.\n주차 가능: 차량번호는 오기 
+ 전에 지민에게 꼭 전달해 줘.\n주의사항: 지도에 아파트 
+ 이름만 찍지 말고\, 154동까지 정확히 찍고 오기!
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
