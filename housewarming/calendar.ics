@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//URU Housewarming//Invitation//KO
+PRODID:-//Jiming Housewarming//Invitation//KO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:오합지졸 서울예고 친구들 집들이
+X-WR-CALNAME:지밍의 집들이
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VTIMEZONE
 TZID:Asia/Seoul
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 UID:20261128T160000-housewarming-seoul-arts@marinart1994.github.io
 DTSTAMP:20261028T072530Z
 DTSTART;TZID=Asia/Seoul:20261128T160000
-SUMMARY:집들이 · 오합지졸 서울예고 친구들
+SUMMARY:지밍의 집들이
 LOCATION:서울특별시 강남구 개포로 310\, 디에이치퍼스티어
  아이파크 154동 1405호
 DESCRIPTION:오합지졸 서울예고 친구들\, 집들이에 초대해!\n
